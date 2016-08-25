@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="EmptyTextStyle">
+        <item name="android:textColor">@color/textcolor_black</item>
+        <item name="android:textSize">@dimen/txt_normal</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--appBackground-->
+    <color name="system_bg">#f7f7f7</color>
+
+    <color name="textcolor_black">#6b6b6b</color>
+    <color name="blue">#0ca0f4</color>
+</resources>

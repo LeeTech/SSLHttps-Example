@@ -1,0 +1,17 @@
+<resources>
+    <!--app string-->
+    <string name="app_name">Ddbes</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_msg">内容获取中...</string>
+    <string name="errorMsg">访问错误,请检查您的网络连接</string>
+    <string name="content_empty">暂无内容</string>
+    <string name="loading">内容获取中...</string>
+    <string name="network_error">加载失败， 点击这里重新试试</string>
+
+    <string name="host">ddbes.hiteamtech.com</string>
+    <string name="certPass">hiteamtech_ddbes_666_dsw</string>
+
+    <!--BI SSL PWD-->
+    <string name="key_store_pwd">hiteamtech666</string>
+    <string name="trust_store_pwd">hiteamtech666</string>
+</resources>
